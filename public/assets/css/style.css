@@ -1,0 +1,35 @@
+.jumbotron {
+    background-color: aqua;
+    background-position: center;
+}
+
+#newburger {
+    border-radius: 5px;
+}
+
+#color-override {
+    color: #fff;
+}
+
+#panel-body {
+    background-color: aqua;
+}
+
+#lefthead {
+    background-color: #5cb85c;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatbutton, #trashbutton {
+    float: right;
+    color: black;
+}
+
+#righthead {
+    background-color: #f0ad4e;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
